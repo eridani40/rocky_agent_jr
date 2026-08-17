@@ -1,0 +1,9 @@
+node_modules/
+dist/
+out/
+*.log
+.DS_Store
+worktrees/
+
+# env（含 secrets，勿提交）
+.env
